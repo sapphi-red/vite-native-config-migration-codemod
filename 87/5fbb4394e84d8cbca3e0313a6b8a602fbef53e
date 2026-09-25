@@ -1,0 +1,19 @@
+index.test.mjs
+  s_18cea624cab17d::t_8290fc00c7d003 1-170
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "875fbb4394e84d8cbca3e0313a6b8a602fbef53e",
+  "prompts": {},
+  "sessions": {
+    "s_18cea624cab17d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0d6b5-17d1-7c20-aad1-f15c724d87a6",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "sapphi-red <green@sapphi.red>"
+    }
+  }
+}
